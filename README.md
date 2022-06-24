@@ -1,4 +1,4 @@
-# Violent-Crime-Analysis-during-Lockdowns-
+# Violent-Crime-Analysis-during-Lockdowns
 
 Specifics
 1. Processed the given data efficiently using Apache Spark on a cloud Infrastructure as a Service (IaaS)
