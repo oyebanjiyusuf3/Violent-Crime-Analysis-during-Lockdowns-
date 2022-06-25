@@ -18,4 +18,4 @@ affluence, relative deprivation, or neither.
 7. Reported critically on the advantages, disadvantages, and limitations of the methods used.
 
 8. The project is done in Jupyter Notebook containing both code (typically Python), and explanatory text
-(Markdown) in .ipynb file.
+(Markdown) in .ipynb file...
